@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="htdocs_server">
+    <serverData>
+      <paths name="htdocs_server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="muj_PROJEKT" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="moje-php-zk2">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="muj-php">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
